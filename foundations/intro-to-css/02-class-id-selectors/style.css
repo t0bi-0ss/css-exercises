@@ -3,6 +3,10 @@
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
+.div-by-three {
+    font-size: 24px;
+}
+
 #num-2 {
     color: rgb(0, 60, 255);
     font-size: 36px;
