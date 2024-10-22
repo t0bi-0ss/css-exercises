@@ -8,3 +8,9 @@
     color: black;
 }
 
+.black-button,
+.yellow-button {
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}
