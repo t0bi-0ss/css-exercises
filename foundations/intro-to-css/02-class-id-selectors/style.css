@@ -7,3 +7,9 @@
     color: rgb(0, 60, 255);
     font-size: 36px;
 }
+
+#num-4 {
+    background-color: rgb(161, 253, 107);
+    font-size: 24px;
+    font-weight: 700;
+}
