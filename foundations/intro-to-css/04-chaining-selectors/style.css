@@ -5,3 +5,7 @@
     height: auto;
 }
 
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
